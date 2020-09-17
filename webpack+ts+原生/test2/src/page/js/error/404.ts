@@ -1,0 +1,1 @@
+import '@/assets/css/error/404.css'
